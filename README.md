@@ -29,7 +29,8 @@ You can include this information in the **Features** section of your README file
   - **Sustainability Integration**: Design with sustainability in mind.
   - **Rental Friendly Design**: Create designs suitable for rental properties.
   - **Budget**: Stay within your budget with cost-effective design solutions.
-- **Real-Time Updates**: Experience real-time updates and previews as you make changes.
+- **View Previous Designs**: Easily access and review your past designs to track your progress and make further adjustments.
+- **Purchase More Credits**: Securely purchase additional credits through an integrated payment system to continue creating new designs.
 - **Secure and Scalable**: Built with modern web technologies for a secure and scalable solution.
 
 ## Technologies Used
