@@ -102,3 +102,7 @@ We welcome contributions from the community! To contribute:
 4. Submit a pull request to the main repository.
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
+
+## Contact
+
+For questions or support, please open an issue on the GitHub repository or contact me at [goharwah786@gmail.com].
