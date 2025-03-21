@@ -50,7 +50,6 @@ To set up the project locally, follow these steps:
    Create a `.env.local` file in the root directory and add the necessary environment variables:
    ```plaintext
    NEXT_PUBLIC_DATABASE_URL=
-   DATABASE_URL=" NEXT_PUBLIC_DATABASE_URL in quotes "
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
    CLERK_SECRET_KEY=
    NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
