@@ -5,6 +5,6 @@ export default defineConfig({
   schema: './config/schema.js',
   dialect: 'postgresql',
   dbCredentials: {
-    url: process.env.DATABASE_URL,
+    url: "postgresql://neondb_owner:npg_mDu8ehy3pGUE@ep-jolly-water-a55gzqi8-pooler.us-east-2.aws.neon.tech/my-interior-bud?sslmode=require",
   },
 });
