@@ -9,7 +9,7 @@ Welcome to **My Interior Bud**, an innovative web application designed to transf
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 You can include this information in the **Features** section of your README file to highlight the specific customization options available in your application. Here's how you can update that section:
 
