@@ -78,7 +78,10 @@ To set up the project locally, follow these steps:
    NEXT_PUBLIC_PAYPAL_CLIENT_ID=
    ```
 
-4. **Run the Development Server**:
+4. **Configure Database URL**:
+   Open the `drizzle.config.js` file and update the url to match your `NEXT_PUBLIC_DATABASE_URL` url.
+
+5. **Run the Development Server**:
    ```bash
    npm run dev
    ```
