@@ -11,11 +11,24 @@ Welcome to **My Interior Bud**, an innovative web application designed to transf
 - [Contributing](#contributing)
 - [License](#license)
 
+You can include this information in the **Features** section of your README file to highlight the specific customization options available in your application. Here's how you can update that section:
+
 ## Features
 
 - **AI-Powered Interior Redesign**: Reimagine your living spaces with advanced AI algorithms.
 - **User-Friendly Interface**: Navigate through various design options with ease.
-- **Customizable Options**: Tailor the redesign to your specific needs and preferences.
+- **Customizable Options**: Tailor the redesign to your specific needs and preferences, including:
+  - **Interior Type**: Choose from different types of interiors to redesign.
+  - **Lifestyle**: Customize designs based on your lifestyle needs.
+  - **Design Style**: Select from a variety of design styles to match your taste.
+  - **Lighting Preference**: Adjust lighting settings to create the perfect ambiance.
+  - **Storage Preference**: Optimize storage solutions to fit your space.
+  - **Furniture Preference**: Choose furniture styles and arrangements.
+  - **Mood Preference**: Set the mood with color schemes and decor.
+  - **Smart Home Integration**: Incorporate smart home features seamlessly.
+  - **Sustainability Integration**: Design with sustainability in mind.
+  - **Rental Friendly Design**: Create designs suitable for rental properties.
+  - **Budget**: Stay within your budget with cost-effective design solutions.
 - **Real-Time Updates**: Experience real-time updates and previews as you make changes.
 - **Secure and Scalable**: Built with modern web technologies for a secure and scalable solution.
 
